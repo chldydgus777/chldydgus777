@@ -8,9 +8,9 @@ I'm YongHyun CHoi a Junior Front-End developer with
 
 
 ### Contact Me
-<a href="chldydgus777@kakao.com/"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakao&logoColor=white"/></a> : chldydgus777@kakao.com </br>
+Email : chldydgus777@kakao.com </br>
 phone : 010-7653-7913 </br>
-<a href="https://www.instagram.com/y0s_h/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+kakaotalk : chldydgus777
 
 <!--
 **chldydgus777/chldydgus777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
