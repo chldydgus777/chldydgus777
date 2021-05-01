@@ -6,7 +6,7 @@
 
 
 ### Contact Me
-<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/y0s_h/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <!--
 **chldydgus777/chldydgus777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
