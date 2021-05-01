@@ -1,6 +1,6 @@
 ### About Me
 
-안녕하세요 FrontEnd 주니어개발자 최용현입니다.
+안녕하세요 FrontEnd 주니어개발자 최용현입니다. <br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 <!--
