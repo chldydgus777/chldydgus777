@@ -1,6 +1,7 @@
 ### Hello World
 
-I'm YongHyun CHoi a Junior Front-End developer with 
+I'm YongHyun Choi </br>
+a Junior Front-End developer with 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <br/>
 
