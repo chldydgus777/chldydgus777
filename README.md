@@ -1,4 +1,4 @@
-### Hello World
+### 🐣 Hello World
 
 I'm YongHyun Choi </br>
 A Junior Front-End Dev <br/>
@@ -9,7 +9,7 @@ with
 
 
 
-### Contact Me
+### 📩 Contact Me
 Email : chldydgus777@kakao.com </br>
 Phone : 010-7653-7913 </br>
 Kakaotalk : chldydgus777
