@@ -10,8 +10,8 @@ A Junior Front-End Dev with
 
 ### Contact Me
 Email : chldydgus777@kakao.com </br>
-phone : 010-7653-7913 </br>
-kakaotalk : chldydgus777
+Phone : 010-7653-7913 </br>
+Kakaotalk : chldydgus777
 
 <!--
 **chldydgus777/chldydgus777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
