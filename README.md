@@ -17,7 +17,7 @@ A Junior Front-End Dev <br/>
 </div>
 
 
-<h3>✨ Tech Stack ✨</h3>
+<h3>📚 Studying 📚</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
