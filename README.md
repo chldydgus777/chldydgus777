@@ -17,7 +17,7 @@ A Junior Front-End Dev <br/>
 </div>
 
 
-<h3 align="center">📫 Contact 📫</h3>
+<h3>📫 Contact 📫</h3>
 Email : chldydgus777@kakao.com </br>
 Phone : 010-7653-7913 </br>
 Kakaotalk : chldydgus777
