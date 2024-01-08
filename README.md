@@ -3,7 +3,7 @@
 I'm YongHyun Choi </br>
 A Junior Front-End Dev <br/>
 
-<h3>✨ Tech Stack ✨</h3>
+<h3>Tech Stack</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/> 
@@ -17,14 +17,14 @@ A Junior Front-End Dev <br/>
 </div>
 
 
-<h3>📚 Studying 📚</h3>
+<h3>Studying</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
 </div>
 
-<h3>🛠 Tools 🛠</h3>
+<h3>Tools</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -42,10 +42,9 @@ A Junior Front-End Dev <br/>
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
 
-<h3>📫 Contact 📫</h3>
-Email : chldydgus777@kakao.com </br>
-Phone : 010-7653-7913 </br>
-Kakaotalk : chldydgus777
+<h3>Contact</h3>
+Email : chldydgus777@kakao.com &nbsp
+Phone : 010-7653-7913
 
 <!--
 **chldydgus777/chldydgus777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
