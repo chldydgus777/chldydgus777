@@ -1,7 +1,7 @@
 ### CDG
 
 I'm YongHyun Choi </br>
-A Junior Front-End Dev <br/>
+Front-End Dev <br/>
 
 <h3>Tech Stack</h3>
 <div align="left">
