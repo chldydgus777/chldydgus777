@@ -1,6 +1,6 @@
 ### CDG
 
-I'm YongHyun Choi </br>
+YongHyun Choi </br>
 Front-End Dev <br/>
 
 <h3>Tech Stack</h3>
