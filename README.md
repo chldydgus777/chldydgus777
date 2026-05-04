@@ -1,11 +1,11 @@
 <!-- README.md or 소개용 마크다운 -->
 
-### 👋 CDG
+### CDG
 
 ## 최용현 YongHyun Choi  
 프론트엔드 개발자 (Front-End Developer)  
 
-<h3>💡 About Me</h3>
+<h3>About Me</h3>
 
 - 사용자 경험을 고려한 UI 개발에 관심이 많습니다.
 - 협업과 커뮤니케이션을 중요하게 생각합니다.
@@ -43,10 +43,10 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div> -->
 
-<h3>📫 Contact</h3>
+<h3>Contact</h3>
 
-- 📧 Email: **chldydgus777@kakao.com**  
-- 📱 Phone: **010-7653-7913**  
+- Email: **chldydgus777@kakao.com**  
+- Phone: **010-7653-7913**  
 
 <!--  
 **chldydgus777/chldydgus777** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
