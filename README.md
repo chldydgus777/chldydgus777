@@ -10,7 +10,7 @@
 - 사용자 경험을 고려한 UI 개발에 관심이 많습니다.
 - 협업과 커뮤니케이션을 중요하게 생각합니다.
 
-<h3>💻 Tech Stack</h3>
+<!-- <h3>💻 Tech Stack</h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/> 
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Zeplin-F24E1E?style=for-the-badge&logo=zeplin&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</div>
+</div> -->
 
 <h3>📫 Contact</h3>
 
